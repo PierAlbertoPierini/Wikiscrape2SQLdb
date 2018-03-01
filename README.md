@@ -1,4 +1,4 @@
-#Wiki table scraper and SQL insertion
+## Wiki table scraper and SQL insertion
 
 I made this Python 2.7 script to help a friend in SurreyCodes to scrape data from a wiki table and insert them in a SQl database.
 
